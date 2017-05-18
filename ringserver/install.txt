@@ -1,0 +1,7 @@
+Installing & compiling ringserver
+
+
+
+1) download files from https://github.com/iris-edu/ringserver/archive/v2017.052.tar.gz (you can get latest release on https://github.com/iris-edu/ringserver).
+
+pi@raspberrypi:~/mars88 $ wget https://github.com/iris-edu/ringserver/archive/v2017.052.tar.gz
